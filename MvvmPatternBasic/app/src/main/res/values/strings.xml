@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvvmPatternBasic</string>
+    <string name="input_ok">OK</string>
+</resources>
